@@ -7,6 +7,8 @@ NOTE : For me in today `tor-browser-linux64-11.5.8_en-US.tar.xz`
 
 then
 
+![pic1](/src/Screenshot%20from%202022-11-25%2010-03-16.png)
+
 ~~~
 cd Downloads
 
@@ -19,6 +21,8 @@ cd tor-browser_en-US/
 
 Copy Browser shortcut to Desktop
 
+![pic2](/src/Screenshot%20from%202022-11-25%2010-02-10.png)
+
 ~~~
 cp start-tor-browser.desktop ~/Desktop
 
@@ -29,3 +33,6 @@ gio set ~/Desktop/start-tor-browser.desktop metadata::trusted true
 chmod a+x ~/Desktop/start-tor-browser.desktop
 ~~~
 
+All done
+
+![pic3](/src/Screenshot%20from%202022-11-25%2010-00-40.png)
